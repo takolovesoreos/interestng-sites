@@ -5,5 +5,8 @@ https://schoolassistance.herokuapp.com
 
 https://musclediagrams.herokuapp.com
 
-https://musclediagrams.herokuapp.com
+https://spanishvocab.herokuapp.com
+
+https://historydates.herokuapp.com
+
 more to come
